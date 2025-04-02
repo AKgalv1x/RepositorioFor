@@ -14,7 +14,7 @@ public class For_Agiee {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        String animes[] = {"hxh", "bsd", "jshk", "Bnah"};
+        String animes[] = {"hxh", "bsd", "jshk", "Bnha"};
         
         for (int i=1; i < animes.length;i++){
             System.out.println(animes[i]);
